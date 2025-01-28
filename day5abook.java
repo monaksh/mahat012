@@ -15,7 +15,6 @@ public class day5aBook{
     }
     
 }
-public class main{
     public static void main( String[] args ){
         day5aBook book = new day5aBook();
         book.title ="harry potter and the half blood prince";
@@ -25,4 +24,3 @@ public class main{
         book.checkDiscount();
     
     }
-}
