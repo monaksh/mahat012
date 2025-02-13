@@ -1,6 +1,6 @@
 public class day13a {
     public static void main(String[] args) {
-        int[] numbers = {+--};
+        int[] numbers = {23,42,33,41,76,53,75,32};
           int min = Integer.MAX_VALUE;
           for(int number : numbers){
             if(number < min){
