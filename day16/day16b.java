@@ -1,8 +1,7 @@
-package mahat012.day16; 
-    class WrapperExample {
-        void demo() {
-            int a = 10;
-            Integer obj1 = a;
+class WrapperExample {
+        void Wrapper() {
+            int obj1 = 10;
+            Integer a = obj1;
             System.out.println("Autoboxed Integer: " + obj1);
     
             Integer obj2 = 20;
@@ -19,7 +18,7 @@ package mahat012.day16;
     public class day16b {
         public static void main(String[] args) {
             WrapperExample w = new WrapperExample();
-            w.demo();
+            w.Wrapper();
     
             double x = 5.5;
             Double objX = x; 
