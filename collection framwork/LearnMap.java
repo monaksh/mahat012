@@ -29,6 +29,5 @@ System.out.println(numbers);
         System.out.println(value);
      }
      System.out.println(numbers.containsValue(1));
-
     }
 }
