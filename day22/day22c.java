@@ -1,7 +1,7 @@
 package mahat012.day21;
 import java.util.TreeSet;
 
-public class day21c {
+public class day22c {
     public static void main(String[] args) {
         TreeSet<Integer>t=new TreeSet<>();
         t.add(40);

@@ -1,6 +1,6 @@
 package mahat012.day22;
 import java.util.TreeMap;
-public class day22c{
+public class day23c{
     public static void main(String[] args) {
 
         TreeMap<Integer,String>tm=new TreeMap<>();

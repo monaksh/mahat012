@@ -2,7 +2,7 @@ package mahat012.day21;
 import java.util.TreeSet;
 import java.util.Set;
 
-public class day21a {
+public class day22a {
     public static void main(String[] args) {
         TreeSet t = new TreeSet<>();
         t.add(10);

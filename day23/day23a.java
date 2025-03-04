@@ -1,7 +1,7 @@
 package mahat012.day22;
 import java.util.PriorityQueue;
 
-public class day22 {
+public class day23a {
     public static void main(String[] args) {
         PriorityQueue<Integer>q=new PriorityQueue<>();
         q.add(90);

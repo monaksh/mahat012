@@ -1,7 +1,7 @@
 package mahat012.day22;
 import java.util.HashMap; 
 
-public class day22b {
+public class day23b {
     public static void main(String[] args) {
         HashMap<String,Integer>hs=new HashMap<>();
         hs.put("Apple", 50);
