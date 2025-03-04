@@ -68,7 +68,6 @@ public class cursorLinkedlist{
                 lit.remove();
             }
             System.out.println(l1);
-
         }
 
     }

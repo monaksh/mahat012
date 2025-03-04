@@ -55,14 +55,6 @@ public class day15a {
 
                  //Problem 5
                  v.countConsonants(name);
-
-
-                 
-
-
-
-
-
         }        
     }
     
