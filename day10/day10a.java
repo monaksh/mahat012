@@ -1,3 +1,5 @@
+import mahat012.day26.shapes;
+
 abstract class shapes{
     abstract void area();
 }
